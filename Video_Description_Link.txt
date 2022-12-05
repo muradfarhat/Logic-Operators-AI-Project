@@ -1,0 +1,5 @@
+This project is a continuation of the artificial intelligence course at An-Najah National University. 
+This project aims to determine the results of logic gates through artificial intelligence.
+
+Video Link:
+https://drive.google.com/file/d/1zDGnvIs_ZKmuJPxVv7RVSoU1AT1cenzi/view?usp=share_link
